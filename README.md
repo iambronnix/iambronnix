@@ -1,4 +1,21 @@
-## Hi there 👋
+### Hi there, I'm Erick (iambronnix) 👋
+
+**Kenyan Gopher 🐹 | Cloud Native Enthusiast ☁️ | DevOps Learner ⚙️**
+
+I am a software engineering student at JKUAT (Kenya) passionate about building systems from scratch. I "raw code" to understand how things work under the hood, from container runtimes to network protocols. 
+
+- 🔭 **Currently working on:** Building my own container engine in Go and an interactive Kubernetes learning game.
+- 🌱 **Currently learning:** Kubernetes internals, eBPF, and Distributed Systems.
+- 👯 **Looking to collaborate on:** Open-source Go projects, Cloud Native tooling, or anything involving Linux networking.
+- 💬 **Ask me about:** Go (Golang), Docker internals, C programming, or REST APIs.
+- 📫 **How to reach me:** [Your LinkedIn URL here] or [Your Email here]
+
+#### 🛠️ Tech Stack & Tools
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 <!--
 **iambronnix/iambronnix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
