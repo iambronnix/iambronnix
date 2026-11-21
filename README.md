@@ -2,7 +2,7 @@
 
 **Kenyan Gopher 🐹 | Cloud Native Enthusiast ☁️ | DevOps Learner ⚙️**
 
-I am a software engineering student at JKUAT (Kenya) passionate about building systems from scratch. I "raw code" to understand how things work under the hood, from container runtimes to network protocols. 
+I am a Mathematics and Computer Science student at JKUAT (Kenya) passionate about building systems from scratch. I "raw code" to understand how things work under the hood, from container runtimes to network protocols. 
 
 - 🔭 **Currently working on:** Microservices API in Go and cloudBorg an interactive orchestrator.
 - 🌱 **Currently learning:** Kubernetes internals, eBPF, and Distributed Systems.
